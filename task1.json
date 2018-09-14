@@ -1,0 +1,18 @@
+{
+	"name": "Alexandra",
+	"surname": "Lebedeva",
+	"age": 23,
+	"sex": "female",
+	"contacts": 
+	{
+		"phone": "+996555725468",
+		"email": "izuyminkka@gmail.com"
+	},
+	"university":
+	{
+		"name": "KRSU",
+		"direction": "software engineering",
+		"grade": 4,
+		"group": "EPI 2-15"
+	}
+}
